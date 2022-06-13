@@ -1,0 +1,2 @@
+# Tugas-SLLC_Amanah_1121031016_B
+Single Linked List Circular adalah Single Linked List yang pointer nextnya menunjuk pada dirinya sendiri. Jika Single Linked List tersebut terdiri dari beberapa node,  maka pointer next pada node terakhir akan menunjuk ke node terdepannya. Pengertian:  Single : artinya field pointer-nya hanya satu buah saja dan satu arah.  Circular : artinya pointer next-nya akan menunjuk pada dirinya sendiri sehingga berputar
