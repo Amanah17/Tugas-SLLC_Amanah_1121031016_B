@@ -191,12 +191,13 @@ void hapusData (int input) {
                     if (nodeBantu == tail-> next) {
                       cout << "Data tidak ditemukan\n";
                       return;
-                    } hapus->next = nodeBantu->next;
-                  }
+                    } 
+                  } hapus->next = nodeBantu->next;
+                }
                    cout << "Data" << input << "telah dihapus\n";
                    tampilData();
-                return;
-              } cout << "Data tidak ditemukan list kosong\n";
+            return;
+            } cout << "Data tidak ditemukan list kosong\n";
         }
 
         int main() {
